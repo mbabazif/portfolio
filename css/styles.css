@@ -1,0 +1,88 @@
+
+nav{
+   background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTid-vX6WzP8WRaglEm-ww2Yp7baPia1dCo08M9YksfpiDkkVgSpQ);
+   height: 500px;
+   background-image: cover;
+   
+
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+   
+}
+
+.pictures{
+    background-color: bisque;
+    width: 28%;
+    padding: 10%;
+    position: relative;
+    left:30%;
+    right:30%;
+    top: 60%;
+    bottom:60%;
+    border-radius: 10%
+}
+.bar {
+  list-style-type: none;
+  
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.firste{
+  float: right;
+}
+nav ul li { 
+   display: inline-block;
+   padding-top:400px;
+   background-color: #333;
+  }
+
+
+nav ul li a {
+  display: inline-block;
+  margin-right: -4px;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+h2{
+  color: #111
+}
+h2{
+  text-align: center;
+
+}
+ul{
+  text-align: center;
+  text-decoration: none;
+  list-style-type: none;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color: green;
+  text-align: center;
+}
+/* #PROJECTS{
+width: 900px;
+height: 300px;
+background-color:lightpink;
+}
+
+
+#ABOUTME{
+  height: 1000px;
+width: 500px;
+background-color: blue;
+} */
