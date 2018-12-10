@@ -4,6 +4,7 @@ Setup
 If you would like a local copy of this website, make sure you have git installed then run:
 
 $ git clone 
+
 Technologies Used
 HTML
 CSS
