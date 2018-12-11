@@ -3,7 +3,7 @@ This is my (Florence Mbabazi) website and portfolio, hosted with Github Pages. I
 Setup
 If you would like a local copy of this website, make sure you have git installed then run:
 
-$ git clone 
+$ git clone https://github.com/mbabazif/portfolio.git
 
 Technologies Used
 HTML
